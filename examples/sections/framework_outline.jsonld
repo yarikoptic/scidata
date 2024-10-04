@@ -10,7 +10,7 @@
 		"@id": "identifier_(uri)",
 		"uid": "unique identifier (string)",
 		"title": "title (string)",
-		"authors": ["list of authors with e.g., affilation, email, ORCID"],
+		"authors": ["list of authors with e.g., affiliation, email, ORCID"],
 		"description": "description (string)",
 		"publisher": "publisher (string)",
 		"keywords": "subject (string)",
