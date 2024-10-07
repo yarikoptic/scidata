@@ -17,7 +17,7 @@
 		"version": "version of the data not the file (integer)",
 		"permalink": "permanent URL to file (uri)",
 		"related": ["one or more external links related to this file (uri)"],
-		"toc": ["links sections of this file (interal uri)"],
+		"toc": ["links sections of this file (internal uri)"],
 		"ids": ["links to ontology defined terms (external uri)"],
 		"scidata": {
 			"@id": "scidataFramework/",

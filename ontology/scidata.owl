@@ -2376,7 +2376,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
         <IRI>#axisType</IRI>
-        <Literal>Wether a dataseries in the independent or dependent axis of a chart</Literal>
+        <Literal>Whether a dataseries in the independent or dependent axis of a chart</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="oboowl:id"/>
@@ -2516,7 +2516,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="obo:IAO_0000115"/>
         <IRI>#conversionFactor</IRI>
-        <Literal>A numeric multiplier used to convert a value in one unit of measure into another of the same quantity.  Fo instance, the conversion factor for converting distance in miles to distances in meters is 1609.344.</Literal>
+        <Literal>A numeric multiplier used to convert a value in one unit of measure into another of the same quantity.  For instance, the conversion factor for converting distance in miles to distances in meters is 1609.344.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="oboowl:id"/>

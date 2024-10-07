@@ -1427,7 +1427,7 @@
     <owl:Class rdf:about="http://champ-project.org/images/ontology/cao.owl#CAO_000063">
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sample spike recovery percentage</rdfs:label>
         <rdfs:subClassOf rdf:resource="http://champ-project.org/images/ontology/cao.owl#CAO_000061"/>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analysis of a sample spiked with a known amount of analyte.  The result is compared to the analysis portion of the same sample and the different is compared to the amount of analyte added.  If the difference in the results is equivalent ot the amount added then the recovery is deemed 100%.</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analysis of a sample spiked with a known amount of analyte.  The result is compared to the analysis portion of the same sample and the different is compared to the amount of analyte added.  If the difference in the results is equivalent to the amount added then the recovery is deemed 100%.</obo:IAO_0000115>
         <oboowl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAO_000063</oboowl:id>
         <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person: Stuart Chalk</obo:IAO_0000117>
     </owl:Class>
@@ -2601,7 +2601,7 @@
         <oboowl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CAO_000155</oboowl:id>
         <oboowl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Method of standard addition</oboowl:hasExactSynonym>
         <obo:IAO_0000117 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person: Stuart Chalk</obo:IAO_0000117>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Process by which calibration is performed on a sample where the matrix components cause the signal from the analyte to be enchanced or deminished by the &apos;matrix effect&apos;.  The same small portion of a sample is added to all calibration solutions so that the matrix is matched, and the analyte concentration is determined by extrapolation of the regression line to  y=0.</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Process by which calibration is performed on a sample where the matrix components cause the signal from the analyte to be enhanced or deminished by the &apos;matrix effect&apos;.  The same small portion of a sample is added to all calibration solutions so that the matrix is matched, and the analyte concentration is determined by extrapolation of the regression line to  y=0.</obo:IAO_0000115>
         <oboowl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard additions calibration</oboowl:hasExactSynonym>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistics and Chemometrics for Analytical Chemistry, 6th Ed. 2010 Miller and Miller ISBN 978-0273730422 p128</obo:IAO_0000119>
     </owl:Class>

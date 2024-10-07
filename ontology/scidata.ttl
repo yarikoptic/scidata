@@ -756,7 +756,7 @@ foaf:organization rdf:type owl:Class ;
 ###  https://stuchalk.github.io/scidata/ontology/scidata#axisType
 :axisType rdf:type owl:Class ;
           rdfs:subClassOf :dataset ;
-          obo:IAO_0000115 "Wether a dataseries in the independent or dependent axis of a chart" ;
+          obo:IAO_0000115 "Whether a dataseries in the independent or dependent axis of a chart" ;
           oboowl:id "axisType" ;
           rdfs:label "axis type" .
 
@@ -835,7 +835,7 @@ foaf:organization rdf:type owl:Class ;
 ###  https://stuchalk.github.io/scidata/ontology/scidata#conversionFactor
 :conversionFactor rdf:type owl:Class ;
                   rdfs:subClassOf :unitOfMeasurement ;
-                  obo:IAO_0000115 "A numeric multiplier used to convert a value in one unit of measure into another of the same quantity.  Fo instance, the conversion factor for converting distance in miles to distances in meters is 1609.344." ;
+                  obo:IAO_0000115 "A numeric multiplier used to convert a value in one unit of measure into another of the same quantity.  For instance, the conversion factor for converting distance in miles to distances in meters is 1609.344." ;
                   oboowl:id "conversionFactor" ;
                   rdfs:label "conversion factor" .
 
