@@ -305,7 +305,7 @@ https://en.wikipedia.org/wiki/Henry&apos;s_law#Henry&apos;s_law_volatility_const
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#SO_000011</IRI>
-        <Literal xml:lang="en">Thisis placeholder for IUPAC definition</Literal>
+        <Literal xml:lang="en">This is a placeholder for IUPAC definition</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
